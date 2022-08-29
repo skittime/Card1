@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="173d3161-7599-43f9-b36d-e73e6e728140" name="Changes" comment="" />
+    <list default="true" id="173d3161-7599-43f9-b36d-e73e6e728140" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x5Study/src/L5/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L5/Calc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x5Study/src/L5/ConsoleLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L5/ConsoleLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x5Study/src/L5/FileLoggerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L5/FileLoggerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x5Study/src/L5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L5/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +28,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1ze1cZZlYCN96lNlUMm6KYubRJH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -84,13 +94,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="inlay.hints.JAVA" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\Card1\SchoolOnline" />
@@ -100,7 +113,7 @@
       <recent name="lesson11" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.L5.Main">
     <configuration name="BeatBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson.beatbox.machine.BeatBox" />
       <module name="BookJava" />
@@ -114,12 +127,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson12Pool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson12.Lesson12Pool" />
-      <module name="BookJava" />
+    <configuration name="L5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="L5.Main" />
+      <module name="x5Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson12.*" />
+          <option name="PATTERN" value="L5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L5.Main" />
-      <module name="x5Study" />
+    <configuration name="Lesson12Pool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson12.Lesson12Pool" />
+      <module name="BookJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L5.*" />
+          <option name="PATTERN" value="lesson12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,9 +181,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.BeatBox" />
+      <item itemvalue="Application.Lesson12Pool" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.L5.Main" />
+      <item itemvalue="Application.QuizCardBuilder" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.L5.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.QuizCardBuilder" />
         <item itemvalue="Application.BeatBox" />

@@ -1,37 +1,52 @@
 package L5;
 
-import java.util.Scanner;
-
 public class Calc {
+    int result = 0;
+    static int a, b;
+    String doit, action ;
 
-    Calc() throws Exception {
-        System.out.println("Введите первое число");
-        Scanner scanner = new Scanner(System.in);
-        int a = scanner.nextInt();
-        System.out.println("Введите второе число");
-        int b = scanner.nextInt();
-        System.out.println("Введите действие");
-        String doIt = scanner.nextLine();
-        inputNumbers(a, b, doIt);
-
-    }
-
-    public void inputNumbers(int a, int b, String doIt) {
-        int result = 0;
-        switch (doIt) {
-            case "+":
-                result = a + b;
-            case "-":
-                result = a - b;
-            case "*":
-                result = a * b;
-            case "/":
-                result = a / b;
+    Calc(int firstNumber, int secondNumber, String doIt) {
+        this.doit = doIt;
+               switch (doIt) {
+            case ("+"):
+                result = summ(firstNumber, secondNumber);
+                break;
+            case ("-"):
+                result = subtraction(firstNumber, secondNumber);
+                break;
+            case ("*"):
+                result = multiplication(firstNumber, secondNumber);
+                break;
+            case ("/"):
+                result = division(firstNumber, secondNumber);
+                break;
 
             default:
                 System.out.println("Введено неверное действие вычисления");
 
-
         }
     }
+
+
+    private int summ(int a, int b) {
+        return a + b;
+    }
+
+    private int subtraction(int a, int b) {
+        return a - b;
+    }
+
+    private int multiplication(int a, int b) {
+        return a * b;
+    }
+
+    private int division(int a, int b) {
+        return a / b;
+    }
+
+
+    public int inputNumbers() {
+        return result;
+    }
 }
+
