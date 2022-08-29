@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BookJava/BookJava.iml" filepath="$PROJECT_DIR$/BookJava/BookJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Card1.iml" filepath="$PROJECT_DIR$/Card1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SchoolOnline/SchoolOnline.iml" filepath="$PROJECT_DIR$/SchoolOnline/SchoolOnline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookJava/lesson_7.iml" filepath="$PROJECT_DIR$/BookJava/lesson_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookJava/lossen_7.iml" filepath="$PROJECT_DIR$/BookJava/lossen_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/x5Study/x5Study.iml" filepath="$PROJECT_DIR$/x5Study/x5Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookJava/x5_Study.iml" filepath="$PROJECT_DIR$/BookJava/x5_Study.iml" />
+    </modules>
+  </component>
+</project>
