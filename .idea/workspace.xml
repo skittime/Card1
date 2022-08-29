@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="173d3161-7599-43f9-b36d-e73e6e728140" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+    <list default="true" id="173d3161-7599-43f9-b36d-e73e6e728140" name="Changes" comment="Working App">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/Calc.class" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/Calc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/FileLoggerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/FileLoggerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/x5Study/src/L5/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L5/Calc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x5Study/src/L5/ConsoleLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L5/ConsoleLogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x5Study/src/L5/FileLoggerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L5/FileLoggerFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/x5Study/src/L5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L5/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +114,7 @@
       <recent name="lesson11" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.L5.Main">
+  <component name="RunManager" selected="Application.L5.exercise.one.Main">
     <configuration name="BeatBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson.beatbox.machine.BeatBox" />
       <module name="BookJava" />
@@ -127,14 +128,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="L5.exercise.one.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="L5.Main" />
+      <option name="MAIN_CLASS_NAME" value="L5.exercise.one.Main" />
       <module name="x5Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L5.*" />
+          <option name="PATTERN" value="L5.exercise.one.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,15 +183,15 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.L5.exercise.one.Main" />
       <item itemvalue="Application.BeatBox" />
       <item itemvalue="Application.Lesson12Pool" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.L5.Main" />
       <item itemvalue="Application.QuizCardBuilder" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.L5.Main" />
+        <item itemvalue="Application.L5.exercise.one.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.QuizCardBuilder" />
         <item itemvalue="Application.BeatBox" />
@@ -207,6 +208,14 @@
       <option name="presentableId" value="Default" />
       <updated>1634493821579</updated>
     </task>
+    <task id="LOCAL-00001" summary="Working App">
+      <created>1661803494094</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661803494094</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,5 +228,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Working App" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working App" />
   </component>
 </project>
