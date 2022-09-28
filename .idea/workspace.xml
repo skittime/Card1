@@ -4,13 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="173d3161-7599-43f9-b36d-e73e6e728140" name="Changes" comment="New exercise">
-      <change afterPath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/GPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/RAM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/StorageDevice.java" afterDir="false" />
+    <list default="true" id="173d3161-7599-43f9-b36d-e73e6e728140" name="Changes" comment="New content">
+      <change afterPath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/CPUBuildfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x5Study/src/L6/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x5Study/src/L6/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x5Study/src/L6/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x5Study/src/L6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x5Study/src/L6/Orange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/Proc.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/CPU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/Calc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/ConsoleLogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/ConsoleLoggerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/DbLogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/DbLoggerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/FileLogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/FileLoggerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/Logger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/LoggerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/LoggerType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/CPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/CPU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/GPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/GPU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/RAM.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/RAM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/StorageDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/StorageDevice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,21 +115,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\Card1\SchoolOnline" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="L5.exercise.two" />
       <recent name="L5" />
       <recent name="lesson11" />
     </key>
@@ -119,7 +140,7 @@
       <command value="file" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.L5.exercise.one.Main">
+  <component name="RunManager" selected="Application.L6.Main">
     <configuration name="BeatBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson.beatbox.machine.BeatBox" />
       <module name="BookJava" />
@@ -148,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson12Pool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson12.Lesson12Pool" />
-      <module name="BookJava" />
+    <configuration name="L6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L6.Main" />
+      <module name="x5Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson12.*" />
+          <option name="PATTERN" value="L5.exercise.two.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,18 +210,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.L5.exercise.one.Main" />
+      <item itemvalue="Application.L6.Main" />
       <item itemvalue="Application.BeatBox" />
-      <item itemvalue="Application.Lesson12Pool" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.QuizCardBuilder" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.L6.Main" />
         <item itemvalue="Application.L5.exercise.one.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.QuizCardBuilder" />
         <item itemvalue="Application.BeatBox" />
-        <item itemvalue="Application.Lesson12Pool" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661805624214</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New content">
+      <created>1661946082519</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661946082519</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,6 +272,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Working App" />
     <MESSAGE value="New exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="New exercise" />
+    <MESSAGE value="New content" />
+    <option name="LAST_COMMIT_MESSAGE" value="New content" />
   </component>
 </project>
