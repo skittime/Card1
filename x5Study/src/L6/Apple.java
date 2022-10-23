@@ -1,9 +1,13 @@
 package L6;
 
-public class Apple extends Fruit {
+public class Apple implements Fruit{
 
-    Apple(int amount){
-        this.amount = amount;
+    public float getFruitWeight() {
+        return 1.0f;
     }
-    final float weightFruit = 1.0f;
+
+    @Override
+    public String getName() {
+        return "яблоками";
+    }
 }

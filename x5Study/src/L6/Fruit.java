@@ -1,8 +1,10 @@
 package L6;
 
-public class Fruit {
-    int amount;
+public interface Fruit<T extends Fruit> {
+
+    float getFruitWeight();
+    String getName();
+
 
 }
-
 

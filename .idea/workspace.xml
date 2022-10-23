@@ -5,32 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="173d3161-7599-43f9-b36d-e73e6e728140" name="Changes" comment="New content">
-      <change afterPath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/CPUBuildfer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x5Study/src/L6/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x5Study/src/L6/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x5Study/src/L6/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookJava/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/x5Study/src/L6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x5Study/src/L6/Orange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/Calc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/ConsoleLogger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/ConsoleLoggerFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/DbLogger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/DbLoggerFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/FileLogger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/FileLoggerFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/Logger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/LoggerFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/LoggerType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolOnline/out/production/x5Study/L5/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/CPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/CPU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/GPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/GPU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/Monitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/RAM.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/RAM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/StorageDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L5/exercise/two/StorageDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/x5Study/src/L7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x5Study/src/L6/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L6/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x5Study/src/L6/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L6/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x5Study/src/L6/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L6/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x5Study/src/L6/Orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/x5Study/src/L6/Orange.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,16 +96,9 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/x5Study/src/L6" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\Card1\SchoolOnline" />
@@ -268,6 +242,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Working App" />
